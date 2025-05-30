@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Esta aplicación procesa archivos CSV y almacena los datos en una base de datos MongoDB.
+Esta aplicación en NodeJS procesa archivos CSV y almacena los datos en una base de datos MongoDB.
 
 ## Requisitos Previos
 
